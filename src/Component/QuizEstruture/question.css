@@ -1,0 +1,88 @@
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    height: 100%;
+    gap: 10%;
+    border-width: 2px;
+}
+
+.questionCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 75vw;
+    height: 70vh;
+    border-radius: 5px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("../../assets/rundo.png");
+    
+}
+
+.questionTitle{
+    color: #060047;
+    font-family: 'Fraunces', cursive;
+    font-size: 2.5vh;
+
+}
+.checkQuestions{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+
+.labelsCheck-true{
+    display: flex;
+    width: 90%;
+    border: dashed white;
+    border-radius: 10px;
+    background-color: #D23369;
+    color: white;
+
+}
+.labelsCheck-false{
+    display: flex;
+    width: 90%;
+    background-color: white;
+    border: solid #B3005E;
+    border-radius: 10px;
+
+}
+.labelsCheck label{
+    margin: 100px;
+}
+
+.checkBox{
+    visibility: hidden;
+}
+
+
+.buttonNext{
+    display: flex;
+    justify-content: center;
+}
+
+.buttonNext button{
+    width: 100%;
+    background-color: #D23369;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.quest{
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+}
+
+.quest img{
+    width: 30%;
+}
+

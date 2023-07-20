@@ -1,0 +1,54 @@
+.back{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../../assets/geral.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homeCard{
+    display: flex;
+    justify-content: center;
+    width: 75vw;
+    height: 70vh;
+    border-radius: 5px;
+    background-image: url("../../assets/rundo.png");
+    background-size: cover;
+    background-color: white;
+}
+
+.homeCardDataText{
+    padding: 8%;
+}
+
+.homeCardDataText h2{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+.homeCardDataText h4{
+    font-family: 'Fraunces', sans-serif;
+    font-weight: 400;
+    color: gray;
+}
+
+.homeCardImg {
+    width: 100%;
+    height: 40%;
+    background-image: url('../../assets/flores.jpg');
+    background-size: cover;
+}
+
+
+.homeCardDataButton{
+    display: flex;
+    justify-content: center;
+}
+
+.homeCardDataButton a{
+    width: 70%;
+}
+.homeCardDataButton button{
+    width: 100%;
+}

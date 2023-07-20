@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "title": "Qual filme estavamos assistindo quando um homem dormiu ao nosso lado",
+        "questions": [
+            {"id":1, "question": "Gato de Botas", "value": false },
+            {"id":2, "question": "Avatar" , "value": true},
+            {"id":3, "question": "Guardioes da galaxia" , "value": false}
+        ]
+        
+    },
+    {
+        "id": 2,
+        "title": "Onde estavamos no dia em que essa foto ",
+        "questions": [
+            {"id":1, "question": "LuckBurger" , "value": false},
+            {"id":2, "question": "Pizza de 14" , "value": false},
+            {"id":3, "question": "Avelinos" , "value": true}
+        ]
+        
+    },
+    {
+        "id": 3,
+        "title": "Quantas vezes fomos ao cinema?",
+        "questions": [
+            {"id":1, "question": "3" , "value": false},
+            {"id":2, "question": "6" , "value": false},
+            {"id":3, "question": "4" , "value": true}
+        ]
+        
+    },
+    {
+        "id": 4,
+        "title": "Qual dia da semana te pedi em namoro? ",
+        "questions": [
+            {"id":1, "question": "Segunda" , "value": true},
+            {"id":2, "question": "terça" , "value": false},
+            {"id":3, "question": "quarta" , "value": false}
+        ]
+        
+    },
+    {
+        "id": 5,
+        "title": "Quem nos viu juntos no shopping? ",
+        "questions": [
+            {"id":1, "question": "Lucas André" , "value": false},
+            {"id":2, "question": "Roberta" , "value": true},
+            {"id":3, "question": "Débora" , "value": false}
+            
+        ]
+        
+    },
+    {
+        "id": 6,
+        "title": "Qual foi o primeiro presente que te dei",
+        "questions": [
+            {"id":1, "question": "Correio elegante" , "value": true},
+            {"id":2, "question": "Livros do hernane" , "value": false},
+            {"id":3, "question": "Chocolate" , "value": false}
+            
+        ]
+        
+    },
+    {
+        "id": 7,
+        "title": "Fato marcante em nosso primeiro encontro",
+        "questions": [
+            {"id":1, "question": "Garçom atrapalhado" , "value": false},
+            {"id":2, "question": "bebê fofinho" , "value": false},
+            {"id":3, "question": "Menino coreano" , "value": true}
+            
+        ]
+        
+    },
+    {
+        "id": 8,
+        "title": "Fato marcante de quando fomos ao nicolandia",
+        "questions": [
+            {"id":1, "question": "Caiu do brinquedo" , "value": false},
+            {"id":2, "question": "Desmaiou" , "value": false},
+            {"id":3, "question": "vomitou" , "value": true}
+        ]
+        
+    },
+    {
+        "id": 9,
+        "title": "Data di nosso primeiro encontro",
+        "questions": [
+            {"id":1, "question": "8/11/2022" , "value": false},
+            {"id":2, "question": "21/09/2022" , "value": true},
+            {"id":3, "question": "12/10/2022" , "value": false}            
+        ]
+        
+    },
+    {
+        "id": 10,
+        "title": "No futvolei que o agacy jogou, qual frase gerou briga",
+        "questions": [
+            {"id":1, "question": "Eu sou o melhor" , "value": false},
+            {"id":2, "question": "Eu sou um monstro" , "value": true},
+            {"id":3, "question": "Eu sou o melho" , "value": false}            
+        ]
+        
+    }
+]

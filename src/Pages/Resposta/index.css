@@ -1,0 +1,38 @@
+.total{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+    height: 90%;
+    
+}
+.total img{
+    width: 32%;
+}
+
+
+
+.respostasTotal{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.premio{
+
+    font-family: 'Fraunces', sans-serif;
+    font-weight: 200;
+    padding: 10px;
+}
+
+.premio-text{
+    margin-top: -15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2vh;
+
+}
+
+.fotoFinal{
+    width: 100%;
+    background-color: aquamarine;
+}
+
